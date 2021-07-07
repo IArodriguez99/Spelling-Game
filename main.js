@@ -408,5 +408,216 @@ const questions = [
       { text: 'Hosptial', correct: false },
       { text: 'Hospital', correct: true }
     ]
-  } 
+  }, {
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Animal', correct: true },
+      { text: 'Animale', correct: false }
+    ]
+  },
+  {
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Wrape', correct: false },
+      { text: 'Wrap', correct: true }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Towel', correct: true },
+      { text: 'Tawel', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Babies', correct: true },
+      { text: 'Babys', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Droped', correct: false },
+      { text: 'Dropped', correct: true }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Dropping', correct: true },
+      { text: 'Droping', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Copier', correct: true },
+      { text: 'Copyer', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Niser', correct: false },
+      { text: 'Nicer', correct: true }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Happier', correct: true },
+      { text: 'Happyer', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Saddest', correct: true },
+      { text: 'Sadest', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Cried', correct: true },
+      { text: 'Cryed', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?(Vehicle)',
+    answers: [
+      { text: 'Taxing', correct: false },
+      { text: 'Taxiing', correct: true }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Hiked', correct: true },
+      { text: 'Hiket', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Cary', correct: false },
+      { text: 'Carry', correct: true }
+    ]
+  },{
+    question: 'Which word is spelled correctly?'(Reflective light),
+    answers: [
+      { text: 'Shiny', correct: true },
+      { text: 'Shine', correct: false },
+      { text: 'Shiney', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Happiest', correct: true },
+      { text: 'Happyest', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Patted', correct: true },
+      { text: 'Pattied', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Coppied', correct: false },
+      { text: 'Copied', correct: true },
+      { text: 'Copyed', correct: false },
+      { text: 'Coppyed', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Valley', correct: true },
+      { text: 'Vally', correct: false },
+      { text: 'Valey', correct: false },
+      { text: 'Valie', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Fatest', correct: true },
+      { text: 'Fatest', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Allwyeys', correct: false },
+      { text: 'Always', correct: true },
+      { text: 'Allways', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Squash', correct: true },
+      { text: 'Sqash', correct: false },
+      { text: 'Squas', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Fatter', correct: true },
+      { text: 'Fater', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Boull', correct: false },
+      { text: 'Baell', correct: false },
+      { text: 'Ball', correct: true }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Whnder', correct: false },
+      { text: 'Wander', correct: true }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Word', correct: true },
+      { text: 'Wurd', correct: false },
+      { text: 'Wured', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Chimney', correct: true },
+      { text: 'Chimny', correct: false },
+      { text: 'Chimnye', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Playful', correct: true },
+      { text: 'Plaful', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Stake', correct: false },
+      { text: 'Stak', correct: false },
+      { text: 'Steak', correct: true }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Door', correct: true },
+      { text: 'Dore', correct: false },
+      { text: 'Dor', correct: false }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Ey', correct: false },
+      { text: 'Eye', correct: true }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Beatiful', correct: false },
+      { text: 'Beautiful', correct: true }
+    ]
+  },{
+    question: 'Which word is spelled correctly?',
+    answers: [
+      { text: 'Class', correct: true },
+      { text: 'Clas', correct: false }
+    ]
+  }
 ];
