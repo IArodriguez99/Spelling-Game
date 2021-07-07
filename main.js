@@ -494,7 +494,7 @@ const questions = [
       { text: 'Carry', correct: true }
     ]
   },{
-    question: 'Which word is spelled correctly?'(Reflective light),
+    question: 'Which word is spelled correctly? Reflective Light',
     answers: [
       { text: 'Shiny', correct: true },
       { text: 'Shine', correct: false },
