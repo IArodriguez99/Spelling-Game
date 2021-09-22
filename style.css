@@ -13,6 +13,7 @@
     padding: 0;
     margin: 0;
     display: flex;
+    flex-direction: column;
     width: 100vw;
     height: 100vh;
     justify-content: center;
@@ -20,14 +21,16 @@
     background-color: rgba(8, 8, 8, 0.89);
   }
   
-  body.correct {
-    --hue: var(--hue-correct);
+  .text{
+    color:hotpink
   }
-  
-  body.wrong {
-    --hue: var(--hue-wrong);
+  .text.correct{
+   color: green;
   }
-  
+  .text.wrong{
+    color: red;
+  }
+
   .container {
     width: 800px;
     max-width: 80%;
@@ -69,7 +72,6 @@
   
   .btn.correct {
     --hue: var(--hue-correct);
-    color: black;
   }
   
   .btn.wrong {
