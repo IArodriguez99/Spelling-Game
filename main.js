@@ -531,7 +531,7 @@ const questions = [
   },{
     question: 'Which word is spelled correctly?',
     answers: [
-      { text: 'Fatest', correct: true },
+      { text: 'Fattest', correct: true },
       { text: 'Fatest', correct: false }
     ]
   },{
